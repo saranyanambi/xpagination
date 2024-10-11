@@ -31,7 +31,7 @@ const Tabledata=({data})=>{
    
     return(
         <div className="tableParent">
-       
+       <h1>Employee Data Table</h1>
        
 <table>
   <thead>
