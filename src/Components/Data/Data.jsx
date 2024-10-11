@@ -14,7 +14,7 @@ const Data=()=>{
                   setTabledata(res.data);
               }
               catch(e){
-                  console.log(e);
+                 alert("Failed to fetch data");
               }
           }
           fetchData()
